@@ -1,0 +1,39 @@
+.skill-icon {
+  background-color: #fff;
+  color: #f4763c;
+  height: 7rem;
+  width: 7rem;
+  display: block;
+  line-height: 7rem;
+  font-size: 3rem;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.social-link {
+  display: block;
+  height: 4rem;
+  width: 4rem;
+  line-height: 3.7rem;
+  font-size: 1.5rem;
+  background-color: #e0487b;
+  margin: 2.5rem 0.2rem 1.9rem 0.2rem;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+.social-link:hover {
+  background-color: #9e3560;
+  text-decoration: none;
+}
+
+a {
+  color: #e0487b;
+}
+
+a:hover, a:focus, a:active {
+  color: #9e3560;
+}
+
+.headshot {
+  margin: 0 auto 2rem auto;
+  box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.1);
+}
